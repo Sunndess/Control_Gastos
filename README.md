@@ -1,2 +1,1 @@
-# Control_Gastos
-JAVASCRIPT
+Inmersión DEV - Alura Latam - Clase 2
